@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382167561710",
+    "project_id": "whtasfirebase",
+    "storage_bucket": "whtasfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382167561710:android:6e2b0c6d65fdae42d14aff",
+        "android_client_info": {
+          "package_name": "com.heliobuzato.whatsappfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjjJwdsT7tuU9EYWr0hjGcWopdF_zdWoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

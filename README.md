@@ -66,7 +66,7 @@ Aplicativo Android completo inspirado no WhatsApp, desenvolvido em **Kotlin**, c
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/whatsapp-firebase-clone.git
+git clone https://github.com/HelioSaraiva/whatsapp-firebase-clone.git
 ```
 
 2. Abra no Android Studio
